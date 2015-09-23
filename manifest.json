@@ -2,7 +2,7 @@
   "name": "Logout Everywhere",
   "version": "0.1",
   "manifest_version": 2,
-  "description": "This extension was created with the awesome extensionizr.com",
+  "description": "Logout of all the supported websites you are currently logged in with just a single click.",
   "homepage_url": "http://deekshith.in",
   "icons": {
     "16": "icons/icon16.png",
