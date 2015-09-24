@@ -1,6 +1,6 @@
 {
-  "name": "Logout Everywhere",
-  "version": "0.1",
+  "name": "Logout Everywhere (Beta)",
+  "version": "0.1.2",
   "manifest_version": 2,
   "description": "Logout of all the supported websites you are currently logged in with just a single click.",
   "homepage_url": "http://deekshith.in",
